@@ -53,7 +53,7 @@ Pertanyaan dan Tugas
 
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
    
-  *jawaban* : h1 {...} adalah selektor elemen yang digunakan akan menerapkan gaya pada semua elemen <h1 di halaman web dan semua elemen <h1> yang ada dalam dokumen HTML akan dipengaruhi oleh gaya ini, tanpa terkecuali. sedangkan intro h1 lebih spesifik contoh dalam penerapan disini adalah untuk elemen <h1 yang terletak di dalam elemen dengan ID intro
+  *jawaban* : h1 adalah selektor elemen yang digunakan akan menerapkan gaya pada semua elemen h1 di halaman web dan semua elemen h1 yang ada dalam dokumen HTML akan dipengaruhi oleh gaya ini, tanpa terkecuali. sedangkan (#)intro h1 lebih spesifik contoh dalam penerapan disini adalah untuk elemen h1 yang terletak di dalam elemen dengan ID intro
 
 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan
 penjelasan dan contohnya!
