@@ -63,12 +63,30 @@ penjelasan dan contohnya!
   -inline css akan langsung diterapkan pada elemen, sehingga selalu menang kecuali jika ada aturan dengan important yang digunakan
 
   contoh internal css :
-  
-  
+  ![Screenshot_14](https://github.com/user-attachments/assets/193cf4d9-7ff2-421f-b85f-30d5e1c22886)
 
-5. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
-terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
-Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"
+  contoh eksternal css :
+  ![Screenshot_15](https://github.com/user-attachments/assets/1fdea030-ce34-41c6-a49b-2a7d5254006b)
+
+  contoh inline css :
+  ![Screenshot_16](https://github.com/user-attachments/assets/5748db72-4680-4cbf-a28a-9ed0eec1cde5)
+
+4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"
+
+   ID selektor memiliki spesifisitas lebih tinggi daripada class selektor
+   spesifitas dihitung berdasarkan bobot masing-masing selektor :
+   - selektor id memiliki bobot 100
+   - selektor class memiliki bobot 10
+   - selektor elemen memiliki bobot 1
+   jadi class selektor berada di tingkat yang lebih rendah dibandingkan ID, tetapi lebih tinggi daripada selektor elemen seperti p
+
+   contoh untuk id selektor :
+   ![Screenshot_17](https://github.com/user-attachments/assets/cfaf5f74-25ea-4888-b69a-9436e6ed969d)
+
+   contoh untuk class selector :
+   ![Screenshot_18](https://github.com/user-attachments/assets/3e483156-752c-4c2a-b622-5fa1df92a7a7)
+
+
 
 
 
