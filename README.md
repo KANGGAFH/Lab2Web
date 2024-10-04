@@ -4,7 +4,7 @@
 - **NIM**     : 312310430
 - **Mata Kuliah**: Pemprograman Web 1
 
-melakukan praktikum 
+**melakukan praktikum** 
 
 1. membuat struktur halaman web dengan HTML dengan menggunakan tag <header untuk menambahkan judul, <nav yang akan berisikan navigasi untuk halaman-halaman terkait, <div dengan atribut id bernilai intro, dan <a untuk tautan yang megarahkan ke elemen id "intro"
    ![Screenshot_1](https://github.com/user-attachments/assets/aa63bb96-d6f0-4ef6-98b6-2ac2dfa0965e)
@@ -42,7 +42,7 @@ melakukan praktikum
    *dan ini hasilnya* :
    ![Screenshot_10](https://github.com/user-attachments/assets/b6d0a106-8662-4538-9b5e-b81761899c32)
 
-Pertanyaan dan Tugas
+**Pertanyaan dan Tugas**
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 
   **melakukan perubahan dan penambahan**<br>
