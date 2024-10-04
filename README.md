@@ -71,17 +71,17 @@ penjelasan dan contohnya!
 
 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"
 
-   ID selektor memiliki spesifisitas lebih tinggi daripada class selektor
+   *jawaban* : ID selektor memiliki spesifisitas lebih tinggi daripada class selektor
    spesifitas dihitung berdasarkan bobot masing-masing selektor :
    - selektor id memiliki bobot 100
    - selektor class memiliki bobot 10
    - selektor elemen memiliki bobot 1
    jadi class selektor berada di tingkat yang lebih rendah dibandingkan ID, tetapi lebih tinggi daripada selektor elemen seperti p
 
-   contoh untuk id selektor :
+   *contoh untuk id selektor* :
    ![Screenshot_17](https://github.com/user-attachments/assets/cfaf5f74-25ea-4888-b69a-9436e6ed969d)
 
-   contoh untuk class selector :
+   *contoh untuk class selector* :
    ![Screenshot_18](https://github.com/user-attachments/assets/3e483156-752c-4c2a-b622-5fa1df92a7a7)
 
 
