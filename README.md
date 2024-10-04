@@ -58,9 +58,7 @@ Pertanyaan dan Tugas
 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan
 penjelasan dan contohnya!
 
-  -internal css untuk menggantikan gaya eksternal jika didefinisikan di dalam halaman, tetapi tidak lebih kuat dari inline CSS
-  -eksternal css digunakan jika tidak ada aturan lain yang lebih spesifik atau berprioritas lebih tinggi
-  -inline css akan langsung diterapkan pada elemen, sehingga selalu menang kecuali jika ada aturan dengan important yang digunakan
+  *jawaban* : internal css untuk menggantikan gaya eksternal jika didefinisikan di dalam halaman sedangkan eksternal css digunakan jika tidak ada aturan lain yang lebih spesifik atau berprioritas lebih tinggi kemudian inline css akan langsung diterapkan pada elemen, sehingga selalu menang kecuali jika ada aturan dengan important yang digunakan
 
   contoh internal css :
   ![Screenshot_14](https://github.com/user-attachments/assets/193cf4d9-7ff2-421f-b85f-30d5e1c22886)
