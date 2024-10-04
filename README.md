@@ -45,10 +45,10 @@ melakukan praktikum
 Pertanyaan dan Tugas
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 
-  **melakukan perubahan dan penambahan**
+  **melakukan perubahan dan penambahan**<br>
   ![Screenshot_12](https://github.com/user-attachments/assets/5c8aa3fc-d5f7-43ba-b8a5-a40f830579cd)
 
-  **berikut adalah hasilnya** :
+  **berikut adalah hasilnya** :<br>
   ![Screenshot_13](https://github.com/user-attachments/assets/ae498d67-88b1-4350-9a67-fe99b816b828)
 
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
@@ -60,13 +60,13 @@ penjelasan dan contohnya!
 
   **jawaban** : internal css untuk menggantikan gaya eksternal jika didefinisikan di dalam halaman sedangkan eksternal css digunakan jika tidak ada aturan lain yang lebih spesifik atau berprioritas lebih tinggi kemudian inline css akan langsung diterapkan pada elemen, sehingga selalu menang kecuali jika ada aturan dengan important yang digunakan
 
-  contoh internal css :
+  *contoh internal css* :<br>
   ![Screenshot_14](https://github.com/user-attachments/assets/193cf4d9-7ff2-421f-b85f-30d5e1c22886)
 
-  contoh eksternal css :
+  *contoh eksternal css* :<br>
   ![Screenshot_15](https://github.com/user-attachments/assets/1fdea030-ce34-41c6-a49b-2a7d5254006b)
 
-  contoh inline css :
+  *contoh inline css* :<br>
   ![Screenshot_16](https://github.com/user-attachments/assets/5748db72-4680-4cbf-a28a-9ed0eec1cde5)
 
 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"
