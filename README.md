@@ -26,7 +26,7 @@ melakukan praktikum
    inline css ini berfungsi ketika kita ingin memberikan gaya khusus pada elemen tunggal tanpa harus menggunakan stylesheet terpisah
 
 4. membuat css eksternal untuk mengatur gaya elemen navigasi <nav dan link navigasi <a <br>
-   ![Screenshot_7](https://github.com/user-attachments/assets/0a47460f-8f24-4611-8dba-a11cc4901765)
+   ![Screenshot_7](https://github.com/user-attachments/assets/0a47460f-8f24-4611-8dba-a11cc4901765) <br>
    nav active untuk menunjukan tautan ini sedang aktif sedangkan nav hover digunakan untuk membuat efek ketika pengguna mengarahkan kursor diatasnya
 
    dan jangan lupa untuk menghubungkan file css eksternalnya ke dalam HTML
@@ -36,7 +36,7 @@ melakukan praktikum
    ![Screenshot_8](https://github.com/user-attachments/assets/2e439276-811c-45f7-a363-ca09b9c5ad2d)
 
 5. menggunakan id selector dan class selector<br>
-   ![Screenshot_9](https://github.com/user-attachments/assets/44711507-f3c4-42e9-a79d-7f771301ee27)
+   ![Screenshot_9](https://github.com/user-attachments/assets/44711507-f3c4-42e9-a79d-7f771301ee27) <br>
    id selector digunakan untuk menargetkan elemen HTML dengan atribut id= intro dan class selector digunakan untuk menargetkan elemen-elemen HTML yang memiliki atribut class="button
 
    *dan ini hasilnya* :
