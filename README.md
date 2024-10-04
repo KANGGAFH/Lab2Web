@@ -1,4 +1,4 @@
-# TUGAS 1
+# TUGAS 2
 - **Nama**    : Kangga Fajarulhakim
 - **Kelas**   : TI.23.A.4
 - **NIM**     : 312310430
