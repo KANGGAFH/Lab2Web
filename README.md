@@ -1,4 +1,4 @@
-# TUGAS PERTEMUAN 3
+# TUGAS 3
 - **Nama**    : Kangga Fajarulhakim
 - **Kelas**   : TI.23.A.4
 - **NIM**     : 312310430
